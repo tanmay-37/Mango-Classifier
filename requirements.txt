@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+scipy
+roboflow
+kaggle
+ultralytics
+jupyterlab
