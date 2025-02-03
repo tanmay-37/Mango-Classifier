@@ -96,23 +96,12 @@ Mango-Classifier
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install i
    ```
 3. Prepare the dataset:
    - Place annotated images in the `data` folder.
    - Update `data.yaml` with paths to train, validation, and test sets.
 
-### Training
-To train the YOLOv11 model, run:
-```bash
-python train.py --data data.yaml --epochs 100 --project ./results --name mango_classifier
-```
-
-### Inference
-To perform inference on test images:
-```bash
-python detect.py --weights ./results/mango_classifier/weights/best.pt --source ./test/images --conf 0.25 --save-txt
-```
 
 ## Results
 - Achieved high **precision** and **recall** during testing.
