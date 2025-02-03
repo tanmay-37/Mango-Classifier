@@ -121,6 +121,6 @@ Mango-Classifier
 - **Tanmay Talekar**
 - **Sanchit Pahurkar**
 - **Rohit Garg**
-
+- **Rajdeep Chakraborty**
 ## License
 This project is licensed under the MIT License.
